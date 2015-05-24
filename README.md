@@ -20,3 +20,7 @@ O SGCM se propõe a trazer para o mundo virtual aquilo que acontece dentro de um
   - Linguagens de programação – SQL e C#;
   - Ambiente Operacional – Desktop;
   - Base de Dados – Microsoft SQL Server 2008 R2 (Obrigatório).
+
+# Extra
+
+  - Calculadora básica
