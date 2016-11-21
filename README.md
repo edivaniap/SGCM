@@ -28,10 +28,10 @@ O SGCM se propõe a trazer para o mundo virtual aquilo que acontece dentro de um
 # Imagens
 
   ![img1](imagens/logo.png)
-  ![img1](imagens/Imagem1.png)
-  ![img1](imagens/Imagem2.png)
-  ![img1](imagens/Imagem3.png)
-  ![img1](imagens/Imagem4.png)
-  ![img1](imagens/Imagem5.png)
-  ![img1](imagens/Imagem6.png)
-  ![img1](imagens/Imagem7.png)
+  ![img2](imagens/Imagem1.png)
+  ![img3](imagens/Imagem2.png)
+  ![img4](imagens/Imagem3.png)
+  ![img5](imagens/Imagem4.png)
+  ![img6](imagens/Imagem5.png)
+  ![img7](imagens/Imagem6.png)
+  ![img8](imagens/Imagem7.png)
